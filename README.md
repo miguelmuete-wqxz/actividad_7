@@ -80,3 +80,18 @@ me gusto la dinamica.
 | **Uso ideal** | Análisis rápido, cálculos y reportes personales | Sistemas de información y aplicaciones en producción |
 
 **Conclusión:** Excel sirve para analizar y presentar datos. Una base de datos sirve para almacenarlos de forma segura, consistente y compartida por una aplicación.
+
+
+
+PARTE 2, LIBRERIAS Y FILOSOFIAS DE PYTHON Y SQL:
+
+* **El Zen de Python:** Consiste en 19 aforismos accesibles mediante `import this` en la consola de Python (PEP 20), cuyo propósito principal es promover la escritura de código limpio, simple y legible. El principio destacado es *"Readability counts"* (la legibilidad cuenta), fundamental tanto en programación como en el diseño de bases de datos para facilitar su mantenimiento por parte de múltiples personas.
+* **Desarrollo con Python y MySQL:** El proceso abarca la conexión mediante `mysql-connector-python`, la creación de la base de datos (`actividad7`) y sus respectivas tablas (`automovil`, `paciente`, `producto`), la inserción de registros, la ejecución de consultas de filtrado, modificación y eliminación, y la integración de los resultados en un DataFrame de pandas.
+* **Librerías de análisis y su integración con MySQL:**
+* **pandas:** Enfocada en la manipulación de datos tabulares, destacando por su amplia adopción y documentación.
+* **polars:** Alternativa optimizada orientada al rendimiento en velocidad y uso eficiente de memoria mediante evaluación perezosa y procesamiento multinúcleo.
+* **scipy:** Diseñada para cálculos científicos, estadísticos y matemáticos avanzados sobre conjuntos numéricos.
+* *Integración:* Se detalla cómo conectar Python con MySQL tanto en entornos remotos y temporales (**Google Colab**) como en entornos locales persistentes (**Visual Studio Code**), recomendando el uso de prácticas seguras para la gestión de credenciales (Secretos y archivos `.env`).
+* <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/ae2684f9-00c6-45fe-b8ec-ded140c4e674" />
+
+
