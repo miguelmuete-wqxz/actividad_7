@@ -94,4 +94,5 @@ PARTE 2, LIBRERIAS Y FILOSOFIAS DE PYTHON Y SQL:
 * *Integración:* Se detalla cómo conectar Python con MySQL tanto en entornos remotos y temporales (**Google Colab**) como en entornos locales persistentes (**Visual Studio Code**), recomendando el uso de prácticas seguras para la gestión de credenciales (Secretos y archivos `.env`).
 * <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/ae2684f9-00c6-45fe-b8ec-ded140c4e674" />
 
+PARTE 3 MISQL DESDE PYTHON
 
